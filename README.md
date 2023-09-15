@@ -59,4 +59,8 @@ jupyter notebook "Customer Segmentation and Market Analysis.ipynb"
 ```
 
 ---
+Following URL opens up the Jupyter Notebook in `nbviewer`
 
+https://nbviewer.jupyter.org/github/omkar2611/MarketAnalysis/blob/main/Customer%20Segmentation%20and%20Market%20Analysis.ipynb
+
+---
